@@ -1,0 +1,133 @@
+{
+"FrequencyAllCultures": 94,
+"FemalePercentAllCultures": 0,
+"MalePercentAllCultures": 98,
+"GenderDataItem": [
+{
+"culture": "AMBIGUOUS",
+"frequency": 0,
+"femalePercent": 0,
+"malePercent": 0
+},
+{
+"culture": "ANGLO",
+"frequency": 93,
+"femalePercent": 0,
+"malePercent": 98
+},
+{
+"culture": "ARABIC",
+"frequency": 13,
+"femalePercent": 2,
+"malePercent": 95
+},
+{
+"culture": "CHINESE",
+"frequency": 18,
+"femalePercent": 0,
+"malePercent": 98
+},
+{
+"culture": "HISPANIC",
+"frequency": 27,
+"femalePercent": 2,
+"malePercent": 95
+},
+{
+"culture": "KOREAN",
+"frequency": 6,
+"femalePercent": 0,
+"malePercent": 98
+},
+{
+"culture": "RUSSIAN",
+"frequency": 11,
+"femalePercent": 0,
+"malePercent": 98
+},
+{
+"culture": "FRENCH",
+"frequency": 39,
+"femalePercent": 0,
+"malePercent": 97
+},
+{
+"culture": "GERMAN",
+"frequency": 68,
+"femalePercent": 0,
+"malePercent": 98
+},
+{
+"culture": "THAI",
+"frequency": 4,
+"femalePercent": 0,
+"malePercent": 89
+},
+{
+"culture": "INDONESIAN",
+"frequency": 14,
+"femalePercent": 0,
+"malePercent": 98
+},
+{
+"culture": "YORUBAN",
+"frequency": 16,
+"femalePercent": 0,
+"malePercent": 97
+},
+{
+"culture": "FARSI",
+"frequency": 4,
+"femalePercent": 0,
+"malePercent": 100
+},
+{
+"culture": "PAKISTANI",
+"frequency": 5,
+"femalePercent": 3,
+"malePercent": 95
+},
+{
+"culture": "INDIAN",
+"frequency": 18,
+"femalePercent": 0,
+"malePercent": 97
+},
+{
+"culture": "JAPANESE",
+"frequency": 9,
+"femalePercent": 0,
+"malePercent": 97
+},
+{
+"culture": "AFGHANI",
+"frequency": 0,
+"femalePercent": 0,
+"malePercent": 100
+},
+{
+"culture": "VIETNAMESE",
+"frequency": 3,
+"femalePercent": 5,
+"malePercent": 89
+},
+{
+"culture": "POLISH",
+"frequency": 9,
+"femalePercent": 1,
+"malePercent": 96
+},
+{
+"culture": "PORTUGUESE",
+"frequency": 16,
+"femalePercent": 0,
+"malePercent": 98
+},
+{
+"culture": "TURKISH",
+"frequency": 4,
+"femalePercent": 0,
+"malePercent": 100
+}
+]
+}
