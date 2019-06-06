@@ -108,28 +108,9 @@ class ParseAPI(scrapy.Spider):
 				if key == 'culture':
 
 					field_name = value
-# 
+
 				else:
 
 					item[field_name + '_' + key] = value
-
-			# 	pdb.set_trace()
-
-
-			# if(gender['culture'] == 'AMBIGUOUS'):
-
-				# item['AMBIGUOUS_frequency'] = gender['frequency']
-
-				# item['AMBIGUOUS_femalePercent'] = gender['femalePercent']
-
-				# item['AMBIGUOUS_malePercent'] = gender['malePercent']
-
-			# if(gender['culture'] == 'ANGLO'):
-
-			# 	item['ANGLO_femalePercent'] = gender['femalePercent']
-
-			# 	item['ANGLO_frequency'] = gender['frequency']
-
-			# 	item['ANGLO_malePercent'] = gender['malePercent']
 		
 		yield item
